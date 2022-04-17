@@ -1,8 +1,6 @@
 #Crypto Ticker 
 
-## What you will create
-
-We made a crypto currency price checking app. We will be able to monitor your different cryptocoins in different currencies on the move!
+We made a crypto currency price checking app. We will be able to monitor your different cryptocoins in different currencies on the move! We will be use CoinApi to fetch data.
 
 
 ## We learnt
