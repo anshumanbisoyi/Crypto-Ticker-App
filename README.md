@@ -4,7 +4,7 @@ We made a crypto currency price checking app. We will be able to monitor your di
 
 <img src="https://github.com/anshumanbisoyi/Crypto-Ticker-App/blob/master/ios/crptoticker.gif" width="200" height="400" />
 
-## We learnt
+## Here's what we learnt
 
 - How to use Cupertino Widgets in your app. #iOS Style
 - How to use the DropdownButton Widget from Material design.
